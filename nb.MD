@@ -1,4 +1,4 @@
-## Understanding Bayes as much as I can
+## Understanding Bayes as much as I can with smarty pant GPT 
 
 Bayes' Theorem
 
@@ -36,7 +36,7 @@ Compute P(xj=42|Ck)
 -> likelihood becomes:
     P(xj|Ck) = Gaussian density with mean mjk, variance v^2jk
 
-Absolutely — let’s strip it down to the **intuition behind the Gaussian likelihood formula** without drowning in symbols.
+let’s strip it down to the **intuition behind the Gaussian likelihood formula** without drowning in symbols.
 
 ---
 
@@ -183,7 +183,7 @@ f(x) is not a probability itself, but a density
 
 ---
 
-Ah — now we can connect the dots: **integral vs binning**.
+Now we can connect the dots: **integral vs binning**.
 
 ---
 
